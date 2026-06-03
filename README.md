@@ -12,6 +12,10 @@
 
 **Student ID:** 2024-1135
 
+
+## Project Preview
+![image alt](pantalla_inicio.jpg)
+
 ## Project Objective
 
 The objective of this project is to develop a mobile application that provides basic information about different sports while applying the concepts learned in the Mobile Device Programming course. The application serves as an educational and informational platform that allows users to explore various sports and learn about some of their most notable athletes.
