@@ -12,9 +12,7 @@
 
 **Student ID:** 2024-1135
 
-
-## Project Preview
-![image alt](pantalla_inicio.jpg)
+![image alt](OmniSport.jpg)
 
 ## Project Objective
 
